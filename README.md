@@ -21,4 +21,5 @@ For this task, I developed an interactive Tic Tac Toe game that allows two playe
 
 
 💡 Learning gained:
+
 Deepened my understanding of JavaScript logic, event handling, and conditional programming while focusing on interactive UI design.
